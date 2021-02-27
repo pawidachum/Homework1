@@ -1,0 +1,5 @@
+
+<br>You search: {{searchtext}} <br>
+<input [ngModel]="searchtext" #change><br><br>
+
+<button (click)="search(change.value)">Search</button> 

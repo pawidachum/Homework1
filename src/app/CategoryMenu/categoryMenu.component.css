@@ -1,0 +1,9 @@
+.category1 {
+    background-color: lightcoral;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    
+}
